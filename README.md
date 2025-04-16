@@ -20,5 +20,8 @@ Total Active Employees: 2,458
 Total Training Cost: $1,591,148.63
 
 >For a comprehensive view of the remaining data, please refer to the dashboard.
+## Visualization 
+### Dashboard
+
 
  
