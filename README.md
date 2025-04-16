@@ -23,5 +23,10 @@ Total Training Cost: $1,591,148.63
 ## Visualization 
 ### Dashboard
 
+![HR DASHBOARD](https://github.com/user-attachments/assets/34be0e3c-b67f-46aa-84fc-1fd85304c27d)
+![EMPLOYEE ANALYSIS A](https://github.com/user-attachments/assets/54f04a19-b6fa-4c6c-803f-452d7eda4b64)
+![TRAINING PROGRAM ANALYSIS](https://github.com/user-attachments/assets/89af6111-2a2c-49bd-9ef0-b5dc6437a75a)
+![STATE ANALYSIS 2](https://github.com/user-attachments/assets/6f88e417-2426-47ad-b964-b1f07e378f65)
+
 
  
